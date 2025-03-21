@@ -10,9 +10,7 @@ Python3 main.py
 
 ## Acknowledgments
 
-
-I would like to acknowledge the contributions of [Contributor's GitHub Page](https://github.com/cristianleoo/Reinforcement-Learning.git) for providing valuable insights into reinforcement learning.
-
+I would like to acknowledge the contributions of [Contributor's GitHub Page](https://github.com/cristianleoo/Reinforcement-Learning.git) for providing valuable insights into reinforcement learning and for providing the initial code.
 
 
 # Licence 
